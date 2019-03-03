@@ -5,4 +5,4 @@ Instructions to run this solution.
 3) verify connection string in App.config
 thanks to [entityframeworktutorial](https://github.com/entityframeworktutorial/EF6-DBFirst-Demo) for providing db for this project.
 
-[Live demo](https://apiapp.gearhostpreview.com)
+[Live demo](http://apiapp.gearhostpreview.com)
