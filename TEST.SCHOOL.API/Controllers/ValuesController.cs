@@ -15,25 +15,6 @@ namespace TEST.SCHOOL.API.Controllers
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
-            //using (var context = new SchoolDBEntities())
-            //{
-            //    //var std = new Student()
-            //    //{
-            //    //    StudentName = "wendy"
-            //    //   // FirstName = "Bill",
-            //    //    //LastName = "Gates"
-            //    //};
-            //    //context.Students.Add(std);
-
-            //    //context.SaveChanges();
-            //    //return std;
-
-
-            //    var student1 = context.Students
-            //         .Where(s => s.StudentName == "Bill")
-            //         .FirstOrDefault<Student>();
-            //    return student1;
-            //}
         }
 
         // GET api/values/5
